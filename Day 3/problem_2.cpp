@@ -17,6 +17,6 @@ int main() {
 			    cout << v[i] << endl;
     }
     
-    // It is now reversed!
+    
     return 0;
 }
